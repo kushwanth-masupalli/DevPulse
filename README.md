@@ -28,7 +28,7 @@ code_space_csi/
 ├── models/
 │   └── Activity.js      # Mongoose schema for commits/PRs
 ├── index.html            # DevPulse leaderboard dashboard
-├── index3.html            # RLChat widget (Gemini-powered)
+├
 ├── server.js              # Express app: webhook handler + API routes
 ├── package.json
 └── package-lock.json
